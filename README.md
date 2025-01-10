@@ -9,13 +9,13 @@
 
     python -m venv venv
 
-    .\.venv\Scripts\activate 
+    .\venv\Scripts\activate 
 
     pip install pycryptodome
 
     pip install django-admin-rangefilter
     
-    python -m pip install Pillow    
+    python -m pip install Pillow django 
 
 
 ## To run the server, run the following command:
